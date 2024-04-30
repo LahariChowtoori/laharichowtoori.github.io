@@ -2,8 +2,6 @@
 
 linkedin.com/in/lahari-chowtoori/ | github.com/LahariChowtoori/ (315) 952-7106 | Syracuse, NY| lchowtoo@syr.edu
 
-**SUMMARY**
-• Experienced data scientist with 5+ years of experience leading interdisciplinary teams for government and industry clients. Adept in AI, big data analytics, and cloud-based solutions. Proficient in predictive modeling, anomaly detection, and advanced data visualization. Committed to driving data-driven strategies that foster sustainability and improve business efficiency, delivering technical reports and presentations for national audiences.
 • Recipient of the esteemed ‘John R. Weitzel Memorial Award’ for Information Systems Research, an honor bestowed by the School of Information Studies at Syracuse University for my research contributions in the field.
 
 ##**TECHNICAL SKILLS**
