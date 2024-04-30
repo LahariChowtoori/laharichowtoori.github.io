@@ -23,9 +23,11 @@
 **EDUCATION**
 
 •Master of Science | Applied Data Science School of Information Studies, Syracuse University( May 2024)
+
 Course work: Applied Machine Learning, Big Data Analytics, Information Policy, Visual Analytic Dashboards, Financial Analytics
 
 •Bachelor of Technology | Electronics and Communications Engineering, School of Engineering,Presidency University (May 2019)
+
 Course work: Probability & Statistics, Artificial Neural Networks.
 
 **EXPERIENCE**
@@ -33,6 +35,7 @@ Course work: Probability & Statistics, Artificial Neural Networks.
 **Research Fellow, Dynamic Sustainability Lab, Syracuse University, NY September 2023-Present**
 
 Lead data scientist for a nationally recognized 50+ person strategic research and consulting organization supporting both governments and industry around the globe.
+
 • Developed a blockchain-based supply chain prototype using Ethereum and enabling real-time tracking of carbon emissions at each stage, leading to more transparent monitoring, and reporting for climate-smart commodities under a $60M USDA research project as well as for the U.S. based voluntary carbon market.
 • Collaborating with SIMBA Chain to develop a supply chain prototype leveraging Blocks platform, enabling real-time tracking of carbon emissions at each stage, leading to more transparent monitoring and reporting.
 • Delivered the key research presentation with the prototype on 'Climate & Energy Tracking & Data Verification: Blockchain- Driven Business Models' at the international 2024 Sustainability Summit held in Boston, MA.
@@ -40,6 +43,7 @@ Lead data scientist for a nationally recognized 50+ person strategic research an
 **Virtualization and Data Analysis Specialist, IBM(Kyndryl), Bangalore, India September 2020 - July 2022**
 
 Lead Data Analyst at a global IT firm, driving virtualization and cloud migration initiatives through data mining, machine learning models, and cross-functional collaboration to optimize infrastructure performance and costs.
+
 • Designed anomaly detection models in Python leveraging scikit-learn and TensorFlow, analyzing over 5B data points on performance metrics of 10,000 production VMs, enhancing utilization by 23%.
 • Migrated 1.2PB of mission-critical data across on-prem data centers to Azure Cloud deploying Python migration scripts and AzureData Factory, with zero downtime.
 • Built Azure Data Factory ETL pipelines to process 38M daily infrastructure log rows into Azure Data Lake, increasing monitored KPIs by 50%. Implemented machine learning models using Azure Machine Learning for predictive maintenance.
@@ -51,6 +55,7 @@ efficiency by 25%. Integrated predictive models built using scikit-learn and Ten
 **Data Analyst, IBM, Bangalore, India October 2019 – August 2020**
 
 Data Analyst at a leading technology consultancy, collaborated cross-functionally to drive efficiencies for a major UK telecom client, performed data analysis, developed automation, and created dashboards to inform marketing - leveraging technical expertise, adaptability, and communication skills.
+
 • Performed exploratory data analysis on a 6TB customer dataset using Python (pandas, NumPy, matplotlib) and SQL, optimizingresource planning for over 1 million subscribers, increasing operational efficiency by 65%.
 • Built an enterprise integration layer with Microsoft Power Platform (Power Apps, Power Automate, Power BI), automatingprocesses across 20 systems, reducing average task time by 35% from 2 days to 4 hours.
 • Created interactive Tableau dashboards visualizing critical business datasets with 5+ years of historical data, enabling data- driven decision-making. Improved marketing campaign ROI by 10% in 6 months through actionable insights.
@@ -83,7 +88,9 @@ Data Analyst at a leading technology consultancy, collaborated cross-functionall
 **CERTIFICATIONS**
 
 Microsoft Azure Data Engineer Associate (Present) 
+
 Microsoft Excel AssociateMay (2023)
+
 Microsoft Azure Fundamentals(May 2021)
 
 **LEADERSHIP**
