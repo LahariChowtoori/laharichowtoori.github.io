@@ -22,11 +22,11 @@
 
 **EDUCATION**
 
-•Master of Science | Applied Data Science School of Information Studies, Syracuse University( May 2024)
+•Master of Science, Applied Data Science | School of Information Studies, Syracuse University( May 2024)
 
 Course work: Applied Machine Learning, Big Data Analytics, Information Policy, Visual Analytic Dashboards, Financial Analytics
 
-•Bachelor of Technology | Electronics and Communications Engineering, School of Engineering,Presidency University (May 2019)
+•Bachelor of Technology , Electronics and Communications Engineering | School of Engineering,Presidency University (May 2019)
 
 Course work: Probability & Statistics, Artificial Neural Networks.
 
